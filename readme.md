@@ -11,6 +11,8 @@ vagrant box add centos/7 #choose virtualbox option
 vagrant up
 ```
 
+go to [http://localhost:8484]()
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
