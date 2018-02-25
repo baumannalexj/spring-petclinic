@@ -4,6 +4,13 @@
 
 --this is a change to trigger another travis build--
 
+# Running with Vagrant
+```bash
+vagrant box add centos/7 #choose virtualbox option
+# `vagrant init` is not needed since Vagrantfile src is here
+vagrant up
+```
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
